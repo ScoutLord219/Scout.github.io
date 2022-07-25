@@ -1,0 +1,23 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color:beige;
+  color:#a25c01;
+  padding:10px;
+}
+/* #reddit{
+  float:right;
+}
+
+#description{
+  float: center;
+} */
+#reviews{
+  clear:both;
+}
+.name{
+  font-size:20px;
+  font-weight: bold;
+}
